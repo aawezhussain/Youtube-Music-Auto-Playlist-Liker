@@ -19,4 +19,5 @@ By ensuring that only songs with aria-pressed="false" are clicked, the script av
 # Instructions:
 Open the playlist you want it to be liked in the browser (chrome or other chromium based recommended), then Press `ctrl + shift + j` to open the Developer Console.
 if pasting isn't enable in the console you may **manual** type `allow pasting` to enable the paste the script directly from clipboard.
+[Check out the JavaScript file](src/example.js)
 
