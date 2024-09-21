@@ -25,7 +25,5 @@ If pasting isn’t enabled in the console, type allow pasting and press Enter to
 Copy the text from youtube music auto playlist liker.js and paste it into the console, then press Enter.
 Avoid manually scrolling the YouTube Music page while the script is running, as it may interfere with the process. It will take some time to complete, so you can minimize the tab and do other things in the meantime.
 
-Use this method at your own risk! Your account can be suspended due to "fake engagement" for automating likes. I’ve successfully liked over 750 song as of 21 Sep, 2024.
-
 
 
