@@ -16,8 +16,16 @@ It filters out songs that are already liked by checking the aria-pressed attribu
 
 By ensuring that only songs with aria-pressed="false" are clicked, the script avoids disliking any songs that have already been liked.
 
+# Use this method at your own risk! Your account can be suspended due to "fake engagement" for automating likes. I’ve successfully liked over 750 song as of 21 Sep, 2024.
+
 # Instructions:
-Open the playlist you want it to be liked in the browser (chrome or other chromium based recommended), then Press `ctrl + shift + j` to open the Developer Console.
-if pasting isn't enable in the console you may **manual** type `allow pasting` to enable the paste the script directly from clipboard.
-Then copy the text directy from this file [JavaScript file](Youtube-Music-Auto-Playlist-Liker/youtube music auto playlist liker.js)
+Open the playlist you want to like in your browser (Chrome or another Chromium-based browser is recommended).
+Press Ctrl + Shift + J to open the Developer Console.
+If pasting isn’t enabled in the console, type allow pasting and press Enter to enable it.
+Copy the text from youtube music auto playlist liker.js and paste it into the console, then press Enter.
+Avoid manually scrolling the YouTube Music page while the script is running, as it may interfere with the process. It will take some time to complete, so you can minimize the tab and do other things in the meantime.
+
+Use this method at your own risk! Your account can be suspended due to "fake engagement" for automating likes. I’ve successfully liked over 750 song as of 21 Sep, 2024.
+
+
 
