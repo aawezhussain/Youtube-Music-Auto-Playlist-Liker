@@ -24,6 +24,7 @@ By ensuring that only songs with aria-pressed="false" are clicked, the script av
 - If pasting isn’t enabled in the console, manually type `allow pasting` and press Enter to enable it.
 - Copy the text from `youtube music auto playlist liker.js` and paste it into the console, then press Enter.
 - Avoid manually scrolling the YouTube Music page while the script is running, as it may interfere with the process. It will take some time to complete, so you can minimize the tab and do other things in the meantime.
+![image](https://github.com/user-attachments/assets/0b07d8dd-28a1-419b-a6c5-38cf19954d63)
 
 
 
