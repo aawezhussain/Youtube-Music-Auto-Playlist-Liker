@@ -15,3 +15,6 @@ It filters out songs that are already liked by checking the aria-pressed attribu
 - Stopping Automatically: When there are no more unliked songs, or the playlist is fully loaded, the script stops itself automatically and logs a message indicating that all songs have been liked.
 
 By ensuring that only songs with aria-pressed="false" are clicked, the script avoids disliking any songs that have already been liked.
+
+# Instructions:
+Open the playlist you want it to be liked and 
