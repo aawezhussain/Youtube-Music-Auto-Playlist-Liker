@@ -22,7 +22,7 @@ By ensuring that only songs with aria-pressed="false" are clicked, the script av
 - Open the playlist you want to like in your browser (Chrome or another Chromium-based browser is recommended).
 - Press Ctrl + Shift + J to open the Developer Console.
 - If pasting isn’t enabled in the console, type allow pasting and press Enter to enable it.
-- Copy the text from youtube music auto playlist liker.js and paste it into the console, then press Enter.
+- Copy the text from `youtube music auto playlist liker.js` and paste it into the console, then press Enter.
 - Avoid manually scrolling the YouTube Music page while the script is running, as it may interfere with the process. It will take some time to complete, so you can minimize the tab and do other things in the meantime.
 
 
